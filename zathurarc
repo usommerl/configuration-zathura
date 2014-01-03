@@ -1,3 +1,4 @@
 set guioptions .
+set selection-clipboard clipboard
 
 map <C-s> toggle_statusbar
