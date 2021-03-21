@@ -1,6 +1,7 @@
 set guioptions .
 set selection-clipboard clipboard
 set first-page-column 2
+set sandbox none
 
 map <C-s> toggle_statusbar
 map d scroll half-down
